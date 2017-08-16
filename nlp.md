@@ -13,19 +13,33 @@
 * does not need millions of data
 
 ### NLP
-* meaning is invariant (the definition is always the same, despite the language you say iy in)
-* Text -> Token -> Morphology -> Syntax -> Semantics -> Discourse
+* meaning is invariant (the definition is always the same, despite the language you say it in)
+* **Text** -> **Token** -> **Morphology** -> **Syntax** -> **Semantics** -> **Discourse**
 
-### Text
+#### Text
 * raw text
-### Tokenization
+#### Tokenization
 * raw into something use (tokens, unit of meaning)
-### Morphology
+#### Morphology
 * form
-### Syntax
+#### Syntax
 * grammar style
-### Semantics
+#### Semantics
 * meaning
-### Discourse
+#### Discourse
 * identifying relationships
+
+### Industry
+* sentiment analysis in finance
+* searches!
+* personalized ads
+
+### Unique Charateristics of Language
+* made by humans for humans
+* categorized, symbolic signaling
+* machine learning is supposed to be bad at this
+* processing language in the brain is continuous, in programs they must be discrete
+* different interpretations
+* "language is a glorious chaos"
+
 
