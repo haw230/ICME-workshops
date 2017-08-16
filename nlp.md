@@ -47,3 +47,13 @@
 * brittle (grammar complex)
 * hard to scale
 * limited by human understanding
+
+### Why deep learning?
+* can fit to multiple data (flexibility)
+
+## Machine Learning
+### Optimization
+* optimize cost function with gradient descent (most algorithms use it)
+
+### Cross Entropy
+* 
