@@ -41,5 +41,9 @@
 * processing language in the brain is continuous, in programs they must be discrete
 * different interpretations
 * "language is a glorious chaos"
+* huge lexicon, rich grammar, infinite semantic realizations
 
-
+### Advantages/Disadvantages
+* brittle (grammar complex)
+* hard to scale
+* limited by human understanding
